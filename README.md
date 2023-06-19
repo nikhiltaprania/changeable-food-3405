@@ -1,6 +1,6 @@
 # TripSage - Your Ultimate Travel Companion
 
-![TripSage Logo]([D:\changeable-food-3405\TRIPSAGE.png](https://github.com/nikhiltaprania/changeable-food-3405/blob/main/TRIPSAGE.png))
+![TripSage Logo](https://raw.githubusercontent.com/nikhiltaprania/changeable-food-3405/main/TRIPSAGE.png)
 
 TripSage is an all-in-one travel application designed to assist users in planning, booking, and managing their trips seamlessly. With its intuitive interface and extensive features, TripSage aims to be the go-to platform for travelers, providing them with a hassle-free travel experience from start to finish.
 
